@@ -11,4 +11,4 @@ st.set_page_config(
         }
 )
 st.sidebar.title('Hello world')
-st.title('Hello world')
+st.title('Hello world!')
